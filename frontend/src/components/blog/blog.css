@@ -1,0 +1,16 @@
+.MuiPaper-root.MuiCard-root {
+  max-width: 100% !important;
+}
+
+.BlogCard-root-10 {
+  max-width: 100% !important;
+}
+
+.blogSection .blogCardTitle {
+  line-height: 1 !important;
+}
+
+.blogSection .pour ul {
+  list-style: none;
+  background: red !important;
+}

@@ -1,0 +1,20 @@
+.memo\(NavBar\)-appBar-1 {
+  box-shadow: none !important;
+}
+
+.memo\(NavBar\)-waveBorder-7 {
+  position: fixed;
+  width: 100%;
+  margin-top: 2rem;
+  z-index: 2;
+}
+
+.login-btn {
+  border: 0;
+  padding: 6px 30px;
+  font-weight: 500 !important;
+  background-color: #62ad42 !important;
+  color: #fff !important;
+  font-size: 15px !important;
+  text-transform: none !important;
+}
